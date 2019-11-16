@@ -20,3 +20,30 @@
 .App-link {
   color: #09d3ac;
 }
+
+.item {
+  color: green;
+}
+.item-checked {
+  color: red;
+}
+.star{
+  color: #b9b8b4;
+  font-size: 25px;
+}
+.star-checked {
+  color: #ffe100;
+}
+.star-input {
+  display: none;
+}
+.star:hover {
+  color: #ffe100;
+  font-size: 30px;
+}
+
+.rating-stars {
+  display: flex;
+  justify-content: center;
+}
+
